@@ -1,0 +1,1 @@
+## A checklist to successfully begin a new EI cohort.
