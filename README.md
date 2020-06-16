@@ -1,1 +1,1 @@
-## A checklist to successfully begin a new EI cohort.
+## An instructor's checklist to successfully launch a new EI cohort.
