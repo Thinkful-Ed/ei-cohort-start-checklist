@@ -1,0 +1,63 @@
+html {
+  font-size: 20px;
+}
+body {
+  font-family: 'Cardo', serif;
+  line-height: 1.3;
+  color: #fff;
+  padding: 2rem;
+  background-color: #484d5c;
+}
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+a, a:visited {
+  text-decoration: none;
+  color: #cea1f7;
+}
+a:hover {
+  color: #f7a1f6
+}
+p {
+  margin: 1.3rem 0;
+  line-height: 1.3;
+}
+h1, h2, h3 {
+ font-family: 'Oswald', sans-serif;
+}
+h1, h2, h3 {
+  color: #ffce00;
+  letter-spacing: .03rem;
+  font-style: normal;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+input[type="checkbox"] {
+  margin-right: 20px;
+}
+p, li {
+  margin: 1.2rem 0;
+}
+blockquote {
+  font-style: italic;
+}
+section {
+  padding-left: 2rem;
+  margin-bottom: 2rem;
+}
+.demo li {
+  margin: .2rem 0;
+}
+ul.checklist {
+  list-style: none;
+  padding: 0;
+  margin:0;
+}
