@@ -50,7 +50,7 @@ blockquote {
   font-style: italic;
 }
 section {
-  padding-left: 2rem;
+  padding-left: 2.5rem;
   margin-bottom: 2rem;
 }
 .demo li {
@@ -60,4 +60,7 @@ ul.checklist {
   list-style: none;
   padding: 0;
   margin:0;
+}
+ul.sub-checklist {
+  padding-left: 2.5rem;
 }
